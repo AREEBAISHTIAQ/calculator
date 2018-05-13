@@ -1,0 +1,227 @@
+body {
+    margin: 40px;
+    padding: 48px;
+  }
+  
+  .display {
+    background-color: rgb(231, 237, 255);
+    font-family: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    margin: 25px;
+    box-shadow: 2px 4px;
+    font-size: 45px;
+    font-family: helvatica;
+  }
+  
+  .container {
+    background-color: gray;
+    padding-top: 45px;
+    width: 45%;
+  }
+  
+  button {
+    font-size: 50px;
+  }
+  
+  #add {
+    background-color: rgb(16, 251, 251);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 7%;
+    padding-right: 7%;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+  }
+  
+  #subtract {
+    background-color: rgb(16, 251, 251);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 8.2%;
+    padding-right: 8.5%;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+  }
+  
+  #multiply {
+    background-color: rgb(16, 251, 251);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+  }
+  
+  #divide {
+    background-color: rgb(16, 251, 251);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 7%;
+    padding-right: 7%;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+  }
+  
+  #decimal {
+    background-color: rgb(16, 251, 251);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 9%;
+    padding-right: 9%;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+  }
+  
+  #zero {
+    background-color: rgb(16, 251, 251);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+  }
+  
+  #equals {
+    background-color: rgb(16, 251, 251);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 7%;
+    padding-right: 7%;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+  }
+  
+  #one {
+    background-color: rgb(255, 255, 255);
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 6px;
+    padding-right: 8%;
+    padding-left: 8%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  #two {
+    background-color: rgb(255, 255, 255);
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    padding-right: 8%;
+    padding-left: 8%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  #three {
+    background-color: rgb(255, 255, 255);
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    padding-right: 8%;
+    padding-left: 8.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  #four {
+    background-color: rgb(255, 255, 255);
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    padding-right: 8.2%;
+    padding-left: 8.1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  #five {
+    background-color: rgb(255, 255, 255);
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    padding-right: 8%;
+    padding-left: 8.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  #six {
+    background-color: rgb(255, 255, 255);
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    padding-right: 8%;
+    padding-left: 8.4%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  #seven {
+    background-color: rgb(255, 255, 255);
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    padding-right: 8%;
+    padding-left: 8%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  #eight {
+    background-color: rgb(255, 255, 255);
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    padding-right: 8%;
+    padding-left: 8%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  #nine {
+    background-color: rgb(255, 255, 255);
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    padding-right: 8%;
+    padding-left: 8%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  #clear {
+    background-color: rgb(40, 251, 251);
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 7px;
+    padding-right: 21%;
+    padding-left: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  #cancel {
+    background-color: rgb(40, 251, 251);
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 7px;
+    padding-right: 17%;
+    padding-left: 17%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+
